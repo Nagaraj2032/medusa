@@ -1,5 +1,12 @@
 # @medusajs/js-sdk
 
+## 2.8.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/types@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes

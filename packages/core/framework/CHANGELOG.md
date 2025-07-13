@@ -1,5 +1,18 @@
 # @medusajs/framework
 
+## 2.8.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/cli@2.8.8
+  - @medusajs/modules-sdk@2.8.8
+  - @medusajs/orchestration@2.8.8
+  - @medusajs/types@2.8.8
+  - @medusajs/utils@2.8.8
+  - @medusajs/workflows-sdk@2.8.8
+  - @medusajs/telemetry@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes

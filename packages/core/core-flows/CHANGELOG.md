@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.8.8
+
+### Patch Changes
+
+- [#12920](https://github.com/medusajs/medusa/pull/12920) [`8c4228fc42e717f9ab72230040e708f606a585b7`](https://github.com/medusajs/medusa/commit/8c4228fc42e717f9ab72230040e708f606a585b7) Thanks [@riqwan](https://github.com/riqwan)! - fix(link-modules,core-flows): Carry over cart promotions to order promotions
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.8
+
 ## 2.8.7
 
 ### Patch Changes
